@@ -62,7 +62,7 @@ li a.active:hover ~ .container{
 .main-container{
     width: 1000px;
     margin: auto auto;
-    background-color: #EEE;
+    background-color: #FFF;
     border-bottom: 5px solid black;
     overflow-x: scroll;
 }
